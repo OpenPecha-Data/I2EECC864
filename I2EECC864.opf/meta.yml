@@ -1,0 +1,37 @@
+id: I2EECC864
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T19:56:17.253033'
+last_modified: '2022-06-18T19:56:17.253045'
+parser: null
+source_metadata:
+  title: A khu ching Shes rab rgya mtshos list of some rare books
+  author: a khu ching shes rab rgya mtsho/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2020-09-27); entry numbers and line breaks encoded, first revision completed,
+    no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:ye shes/ (Gongkar Choede, Dehradun) (ye)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/24
+  bases:
+    30a4:
+      title: A khu ching Shes rab rgya mtshos list of some rare books
+      order: 1
+      base_file: 30a4.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
